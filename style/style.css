@@ -95,3 +95,16 @@ nav{
 #fluid{
     margin-top: 10px
 }
+
+#resume{
+
+    padding-top: 60px;
+    text-align: center;
+
+}
+#resume p {
+    font-size: 20px;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2c3e50;
+
+}
